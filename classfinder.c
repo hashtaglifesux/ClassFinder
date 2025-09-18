@@ -27,7 +27,7 @@ int isPast(char class_time[]) {
 
 
 int main() {
-  char fname[] = "/Users/adaaspirations/executables/classsheet.txt";
+  char fname[] = "path/to/classsheet.txt";
   struct stat st;
   stat(fname, &st);
   int size = st.st_size;
