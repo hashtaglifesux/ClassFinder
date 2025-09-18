@@ -1,0 +1,41 @@
+1 11:00
+WMEM 103 | 10:30 AM | MATH*1200 - Calculus I (LEC)
+
+1 16:00
+SSC 1303/1305 | 2:30 PM | CIS*1300 - Programming (LAB)
+
+1 21:00
+WMEM 103 | 7:00 PM | - HIST*1250 LEC - Sci & Tech in a Global Context
+
+2 14:00
+MACN 105 | 1:00 PM | CIS*1300 - Programming (LEC)
+
+2 15:30
+ROZH 101 | 2:30 PM | CIS*1910 - Discrete Structures in Computing I (LEC)
+
+3 11:00
+WMEM 103 | 10:30 AM | MATH*1200 - Calculus I (LEC)
+
+4 14:00
+MACN 105 | 1:00 PM | CIS*1300 - Programming (LEC)
+
+4 15:30
+ROZH 101 | 2:30 PM | CIS*1910 - Discrete Structures in Computing I (LEC)
+
+4 21:00
+ALEX 100 | 7:00 PM | ANTH*1120 - Biological Anthropology (LEC)
+
+5 10:00
+MCKN 226 | 8:30 AM | CIS*1910 - Discrete Structures in Computing I (LAB)
+
+5 11:00
+WMEM 103 | 10:30 AM | MATH*1200 - Calculus I (LEC)
+
+5 16:00
+ROZH 101 | 3:30 PM | MATH*1200 - Calculus I (LAB)
+
+7 24:00
+WEEKEND!!!
+
+8 00:00
+padding for edge case
