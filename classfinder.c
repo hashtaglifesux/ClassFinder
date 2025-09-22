@@ -39,9 +39,11 @@ int main() {
   
   uint64_t i = 0;
   while (i < size-9) {
+    // if the time on the event is in the past, skip to the next event
     if (isPast(schedule+i) ) {
       i = (uint64_t)(strstr(schedule+i, "\n\n") + 2 - schedule);
     }
+    // print details of the next event to console and exit
     else {
       i += 7;
       uint64_t j = (uint64_t)(strstr(schedule+i, "\n\n") - schedule);
